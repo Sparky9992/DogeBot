@@ -1,9 +1,10 @@
+
 {
-  "name": "whatsapp-bot",
-  "description": "whatsapp bot build with nodejs",
+  "name": "minatonamikaze12",
+  "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Sparky9992/DogeBot",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
